@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'Frutiger', Arial, sans-serif;
+}
+
+ol {
+    list-style-position: inside; /* Ensures the numbers stay inside the list */
+    padding-left: 0; /* Removes the default left padding */
+    margin: 0 auto; /* Centers the list itself horizontally */
+    display: inline-block;
+}
+
+ol li {
+    text-align: left;
+}
